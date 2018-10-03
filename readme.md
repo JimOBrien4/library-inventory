@@ -1,0 +1,1 @@
+Library inventory software for sophomore year System Design class. Requires Access database to be placed in //C:/Users/Public/BookFace.accdb in order to function.
